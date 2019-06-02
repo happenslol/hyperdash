@@ -9,6 +9,7 @@ cairo-sys-rs = "0.8.0"
 font-loader = "0.8.0"
 xcb = "0.8"
 xkbcommon = "0.4"
+chrono = "0.4"
 
 [dependencies.cairo-rs]
 version = "0.6.0"
